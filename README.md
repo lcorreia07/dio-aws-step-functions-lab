@@ -1,12 +1,12 @@
-# Desafio DIO - AWS Step Functions
+# 🚀 Desafio DIO - AWS Step Functions
 
 ## 💡 Descrição
 
-Este repositório documenta a prática realizada no laboratório sobre **AWS Step Functions**, parte da trilha da DIO. O objetivo foi aplicar os conceitos de orquestração de workflows serverless utilizando Lambda e Step Functions.
+Repositório criado como parte do **Desafio da DIO** para consolidar meus conhecimentos em **workflows automatizados com AWS Step Functions**. 
 
 ---
 
-## 🧠 Conceitos Aplicados
+## 📚 Conceitos Aplicados
 
 - Criação de workflows com AWS Step Functions
 - Integração com funções AWS Lambda
@@ -17,7 +17,7 @@ Este repositório documenta a prática realizada no laboratório sobre **AWS Ste
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 
 - AWS Lambda
 - AWS Step Functions
@@ -27,10 +27,7 @@ Este repositório documenta a prática realizada no laboratório sobre **AWS Ste
 
 ---
 
-
----
-
-## 🧪 Experiência Prática
+## 🛠️ Experiência Prática
 
 Durante o desafio, foram realizadas atividades como:
 
@@ -41,9 +38,9 @@ Durante o desafio, foram realizadas atividades como:
 
 ---
 
-## 🚀 Como Reproduzir
+## 📋 Como Reproduzir
 
-1. Clone este repositório
+1. Copie este repositório
 2. Acesse a AWS Console
 3. Crie funções Lambda conforme as etapas do fluxo
 4. Configure a State Machine no AWS Step Functions (use o `workflow.json` se aplicável)
@@ -51,7 +48,7 @@ Durante o desafio, foram realizadas atividades como:
 
 ---
 
-## 📚 Referências
+## 🔗 Referências
 
 - [Documentação AWS Step Functions](https://docs.aws.amazon.com/step-functions/index.html)
 - [Guia Markdown GitHub](https://guides.github.com/features/mastering-markdown/)
@@ -63,7 +60,4 @@ Durante o desafio, foram realizadas atividades como:
 
 Lauane Correia 
 [LinkedIn]([https://www.linkedin.com/in/lauane-c-124501282/])
-
-
-## 📂 Estrutura do Repositório
 
